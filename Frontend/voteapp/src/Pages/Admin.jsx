@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import API from "../services/api";
+import API from "../Services/api";
 import { toast } from "react-toastify";
 
 const Admin = () => {

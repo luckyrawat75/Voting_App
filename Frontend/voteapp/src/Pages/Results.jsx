@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import CandidateCard from "../Components/CandidateCard";
 import Loader from "../Components/Loader";
-import API from "../services/api";
+import API from "../Services/api";
 import { Bar } from "react-chartjs-2";
 
 import {
